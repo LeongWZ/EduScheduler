@@ -1,2 +1,0 @@
-# EduScheduler
-Jerry was here
